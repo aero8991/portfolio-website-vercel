@@ -62,7 +62,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I&apos;m Daniel.</span> I&apos;m a{" "}
         <span className="font-bold">full-stack developer</span> with{" "}
-        <span className="font-bold">7 years</span> of experience. I enjoy
+        <span className="font-bold">3 years</span> of experience. I enjoy
         building <span className="italic">sites & apps</span>. My focus is{" "}
         <span className="underline">React (Next.js)</span>.
       </motion.h1>
@@ -89,7 +89,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3  flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:active:scale-105 transition  cursor-pointer borderBlack dark:bg-white/10"
-          href="/CV.pdf"
+          href="/Resume_2023_Dan_Rossano.pdf"
           download
         >
           Download Resume{" "}
@@ -97,7 +97,7 @@ export default function Intro() {
         </a>
 
         <a
-          href="https://www.linkedin.com"
+          href="https://www.linkedin.com/in/daniel-rossano-6a192228/"
           target="_blank"
           className="bg-white p-4 rounded-full text-gray-700 focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 hover:active:scale-105 transition  cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
         >
@@ -105,7 +105,7 @@ export default function Intro() {
         </a>
 
         <a
-          href="https://www.github.com"
+          href="https://github.com/aero8991"
           target="_blank"
           className="bg-white p-4 rounded-full text-gray-700 focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 hover:active:scale-105 transition  cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
         >

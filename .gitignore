@@ -38,3 +38,8 @@ jspm_packages
 .next
 
 .*.env
+
+.env.local
+.local
+
+.react-email

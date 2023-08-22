@@ -23,8 +23,8 @@ export default function About() {
       <p className="mb-3">
         After graduating with a BA degree in{" "}
         <span className="font-medium">Sociology</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
+        passion for programming. I enrolled in a coding certification course and learned{" "}
+        <span className="font-medium">both Python and full-stack web development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
         feeling of finally figuring out a solution to a problem. My core stack
@@ -42,8 +42,7 @@ export default function About() {
         watching movies, and spending time with my family. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I&apos;m also
-        learning how to play the guitar.
+        <span className="font-medium">history and finance</span>. 
       </p>
     </motion.section>
   );
